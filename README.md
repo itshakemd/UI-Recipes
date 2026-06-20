@@ -11,6 +11,7 @@ The goal of this repository is to explain UI design concepts in a simple, struct
 | Lesson | Topic                                                                 | Status       |
 | -------- | ----------------------------------------------------------------------- | -------------- |
 | 01     | [Typography Fundamentals](01-typography/README.md) | ✅ Available |
+| 02     | [Spacing System](02-spacing/README.md) | ✅ Available |
 
 ---
 
@@ -52,6 +53,9 @@ ui-recipes/
 ├── README.md
 │
 ├── 01-typography/
+│   └── README.md
+│
+├── 02-spacing/
 │   └── README.md
 │
 └── ...
